@@ -14,7 +14,7 @@
   
 <h3 align='right'>
   
-[DL-Dogs-vs-Cat-Classification-with-CNN-Keras-Project](https://github.com/celik-muhammed/DL-Dogs-vs-Cat-Classification-with-CNN-Keras-Project/blob/master/README.md)
+[15P-Deep-Learning-Projects-with-Python](https://github.com/celik-muhammed/15P-Deep-Learning-Projects-with-Python/blob/master/README.md)
 </h3>
 
 <table>
@@ -30,7 +30,7 @@
 <thead align='left'><tr><th colspan=2>2. Convolutional neural networks (CNN)</th></tr></thead>
 <tbody>
   <tr>
-    <td colspan=2><a href="https://github.com/celik-muhammed/DL-fashion_mnist1-Image-Classification-with-CNN-Project/blob/master/README.md">01. DL-fashion_mnist1-Image-Classification-with-CNN-Project</a></td>
+    <td colspan=2><a href="https://github.com/celik-muhammed/DL-Dogs-vs-Cat-Classification-with-CNN-Keras-Project/blob/master/README.md">01. DL-Dogs-vs-Cat-Classification-with-CNN-Keras-Project</a></td>
   </tr>
 </tbody>
 </table>  
