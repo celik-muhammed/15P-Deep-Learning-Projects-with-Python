@@ -14,7 +14,7 @@
   
 <h3 align='right'>
   
-[15CS-Deep-Learning-Case-Studies-with-Python](https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md)
+[DL-Dogs-vs-Cat-Classification-with-CNN-Keras-Project](https://github.com/celik-muhammed/DL-Dogs-vs-Cat-Classification-with-CNN-Keras-Project/blob/master/README.md)
 </h3>
 
 <table>
