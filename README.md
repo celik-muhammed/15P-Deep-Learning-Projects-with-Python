@@ -25,10 +25,8 @@
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
   <tr>
-    <td rowspan="1"><a href="https://github.com/celik-muhammed/DL-Churn-Prediction-Classification-with-ANN-Project/blob/master/README.md">01. DL Churn Prediction for Bank Customer with ANN Tensorflow  Project</a></td>
-  </tr>
-  <tr>
     <td><a href="#"></a></td>
+    <td rowspan="1"><a href="https://github.com/celik-muhammed/DL-Churn-Prediction-Classification-with-ANN-Project/blob/master/README.md">01. DL Churn Prediction for Bank Customer with ANN Tensorflow  Project</a></td>
   </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2>2. Convolutional neural networks (CNN)</th></tr></thead>
