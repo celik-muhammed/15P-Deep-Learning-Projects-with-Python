@@ -14,7 +14,9 @@
   
 <h3 align='right'>
   
-[15CS-Deep-Learning-Case-Studies-with-Python](https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md)
+[15CS Deep Learning Case Studies with Python](https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md)
+  
+[15 Python Deep Learning](https://github.com/celik-muhammed/15-Python-Deep-Learning/blob/master/README.md)
 </h3>
 
   
