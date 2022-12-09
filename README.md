@@ -45,3 +45,6 @@
   <tr><td>draft</td></tr>
 </tfoot>
 </table>
+
+<div align="center">
+  <img src="https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png" alt="" ></div>
