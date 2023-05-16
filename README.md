@@ -19,7 +19,45 @@
 [15 Deep Learning Basics with Python](https://github.com/celik-muhammed/15-Deep-Learning-Basics-with-Python/blob/master/README.md)
 </h3>
 
-  
+
+
+
+<h1>ANN (Artificial Neural Network)</h1>  
+
+<p>ANN (Artificial Neural Network) is a general term that refers to a type of machine learning model inspired by the structure and function of biological neural networks. It serves as a broad category encompassing various neural network architectures.</p>
+
+<p>In the context of neural networks, an ANN typically refers to a feedforward neural network, which is the simplest form of a neural network. It consists of an input layer, one or more hidden layers, and an output layer. The connections between neurons are typically directed, and the information flows in a forward direction, from the input layer through the hidden layers to the output layer.</p>
+
+<p>ANNs can be used for a wide range of machine learning tasks, including regression, classification, and pattern recognition. They are capable of learning complex non-linear relationships in data and can adapt to different problem domains.</p>
+
+<p>It's important to note that both CNNs and RNNs are specific types of ANNs, each designed to address specific types of data and learning tasks. CNNs are well-suited for grid-like data such as images, while RNNs are more suitable for sequential or time-series data.</p>
+
+<p>In summary, ANN is a general term that encompasses various neural network architectures, including feedforward neural networks (commonly referred to as ANNs in the traditional sense), as well as more specialized architectures like CNNs and RNNs.</p>
+
+
+
+<h1>CNN (Convolutional Neural Network)</h1>
+
+<p>CNN (Convolutional Neural Network) is a type of artificial neural network architecture that is particularly effective in processing grid-like data, such as images, by leveraging the concept of convolution.</p>
+
+<p>The primary building blocks of a CNN are convolutional layers, which apply filters (also known as kernels) to the input data. These filters convolve over the input data, performing element-wise multiplication and summing the results to produce feature maps. By using multiple filters, CNNs can learn to detect different types of patterns or features at various spatial locations within the input.</p>
+
+<p>CNNs also incorporate pooling layers, typically max pooling, which downsample the feature maps by selecting the maximum value within each local region. Pooling helps to reduce the spatial dimensions of the feature maps while retaining the most important information.</p>
+
+<p>Another key characteristic of CNNs is their ability to learn hierarchical representations of data. By stacking multiple convolutional and pooling layers, the network can learn low-level features in the initial layers and progressively learn higher-level, more abstract features in subsequent layers.</p>
+
+<p>In addition to convolutional and pooling layers, CNNs often include fully connected layers towards the end of the network. These fully connected layers consolidate the learned features and generate the final predictions or classifications based on the extracted information.</p>
+
+<p>CNNs have revolutionized the field of computer vision and excel at tasks such as image classification, object detection, image segmentation, and more. They have also been successfully applied to other domains, including natural language processing and time-series analysis, where the data can be transformed into a grid-like structure for processing.</p>
+
+<p>In summary, <u>CNNs are well-suited for grid-like data such as images</u>.</p>
+
+<hr>
+
+
+
+
+
 
 <table align="center">
     <caption><div align='center'>Deep Learning Projects with Python</div></caption>
