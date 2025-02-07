@@ -92,3 +92,6 @@
 
 <div align="center">
   <img src="https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png" alt="" ></div>
+
+<div align="center">
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2024/04/image-27.png" alt="" ></div>
